@@ -1,0 +1,21 @@
+# Core cryptography library
+pycryptodome>=3.19.0
+
+# Optional dependencies for enhanced features
+# Configuration management
+toml>=0.10.0
+pyyaml>=6.0
+
+# Progress bars and rich output
+tqdm>=4.64.0
+rich>=13.0.0
+
+# System information
+psutil>=5.9.0
+
+# Development dependencies (uncomment for development)
+# pytest>=7.0.0
+# pytest-cov>=4.0.0
+# black>=22.0.0
+# flake8>=5.0.0
+# mypy>=1.0.0
